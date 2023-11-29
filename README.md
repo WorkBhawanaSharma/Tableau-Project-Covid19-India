@@ -30,6 +30,8 @@ This Tableau project involves a comprehensive analysis of COVID-19 data in India
 2. Open the Tableau dashboard file in Tableau Desktop.
 3. Explore the interactive dashboards to gain insights into various aspects of COVID-19 impact in India.
 
+Check out the Tableau Public DAshboard [here.](https://public.tableau.com/app/profile/bhawana.sharma/viz/Covid-19inIndia_16947732589260/Dashboard1)
+
 ### Project Structure
 
 - `/data`: Contains the raw and processed COVID-19 data used in the analysis.
